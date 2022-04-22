@@ -1,3 +1,4 @@
-react-profiling/*/node_modules
+**/node_modules
 react-profiling/*/build
 .DS_Store
+./node-streams/assets
